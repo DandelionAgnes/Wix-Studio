@@ -3,6 +3,8 @@ Wix Studio Interactive Gray to Color Icon change.
 2. Make sure to label all component (e.g., #icon1gray, #icon1color).
 3. Apply the code, make sure the components' names in the code match the names asigned to the component.
 
+   
+
 Dark and Light Mode Toggle: I created this code to switch between dark and light mode on my portfolio website.
 1. Set up: For each section of your page, create two versions: dark and light mode.
 2. Make sure you ID each version clearly Add the switch to the header.
